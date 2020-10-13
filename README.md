@@ -4,3 +4,5 @@
   
  <h3> Componentização e Estados <h3>
   
+![alt text](https://github.com/ClaytonMarriel/CalculadoraReact/blob/master/src/calc.png?raw=true)
+
